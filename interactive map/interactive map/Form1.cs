@@ -31,6 +31,8 @@ namespace interactive_map
             label5.Visible = false;
             label7.Visible = true;
             label7.Text = "МЦК Лужники";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button5_Click_1(object sender, EventArgs e)
@@ -47,6 +49,8 @@ namespace interactive_map
             label5.Visible = false;
             label7.Visible = true;
             label7.Text = "Парк Горького";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button4_Click_1(object sender, EventArgs e)
@@ -81,6 +85,8 @@ namespace interactive_map
             label5.Visible = true;
             label7.Visible = true;
             label7.Text = "Новодевичей монастырь";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -97,6 +103,8 @@ namespace interactive_map
             label5.Visible = false;
             label7.Visible = true;
             label7.Text = "Метро Киевская";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -113,6 +121,8 @@ namespace interactive_map
             label5.Visible = false;
             label7.Visible = true;
             label7.Text = "Здания РАН";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -129,6 +139,8 @@ namespace interactive_map
             label5.Visible = true;
             label7.Visible = true;
             label7.Text = "Метро Воробевы горы";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -145,6 +157,8 @@ namespace interactive_map
             label5.Visible = true;
             label7.Visible = true;
             label7.Text = "Стадион Лужники";
+            pictureBox6.Location = new Point(633, 516);
+            label5.Location = new Point(748, 549);
         }
     }
 }
