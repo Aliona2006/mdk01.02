@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\bin\Debug\interactive map.exe.config
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\bin\Debug\interactive map.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\bin\Debug\interactive map.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive_map.Form1.resources
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive_map.Properties.Resources.resources
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\interactive map\interactive map\obj\Debug\interactive map.pdb
