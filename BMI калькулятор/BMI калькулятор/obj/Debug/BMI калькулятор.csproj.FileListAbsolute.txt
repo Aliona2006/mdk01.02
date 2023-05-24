@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\bin\Debug\BMI калькулятор.exe.config
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\bin\Debug\BMI калькулятор.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\bin\Debug\BMI калькулятор.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI_калькулятор.Form1.resources
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI_калькулятор.Properties.Resources.resources
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\BMI калькулятор\BMI калькулятор\obj\Debug\BMI калькулятор.pdb
