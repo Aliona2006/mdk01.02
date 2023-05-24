@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\bin\Debug\PR4_V13_Klimshina24IS-21.exe.config
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\bin\Debug\PR4_V13_Klimshina24IS-21.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\bin\Debug\PR4_V13_Klimshina24IS-21.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\obj\Debug\PR4_V13_Klimshina24IS-21.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\obj\Debug\PR4_V13_Klimshina24IS-21.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\obj\Debug\PR4_V13_Klimshina24IS-21.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\obj\Debug\PR4_V13_Klimshina24IS-21.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\PR4_V13_Klimshina24IS-21\obj\Debug\PR4_V13_Klimshina24IS-21.pdb
