@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
