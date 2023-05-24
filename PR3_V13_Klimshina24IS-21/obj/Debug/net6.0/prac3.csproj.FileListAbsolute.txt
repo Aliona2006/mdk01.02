@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\bin\Debug\net6.0\prac3.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\bin\Debug\net6.0\prac3.deps.json
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\bin\Debug\net6.0\prac3.runtimeconfig.json
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\bin\Debug\net6.0\prac3.dll
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\bin\Debug\net6.0\prac3.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.AssemblyInfo.cs
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.dll
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\refint\prac3.dll
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\prac3.genruntimeconfig.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\prac3\obj\Debug\net6.0\ref\prac3.dll
