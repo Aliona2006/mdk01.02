@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\bin\Debug\lab3_row.exe.config
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\bin\Debug\lab3_row.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\bin\Debug\lab3_row.pdb
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\obj\Debug\lab3_row.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\obj\Debug\lab3_row.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\obj\Debug\lab3_row.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\obj\Debug\lab3_row.exe
+\\Mac\Home\Desktop\УЧЕБА\МДК 01.02\lab3_row\obj\Debug\lab3_row.pdb
